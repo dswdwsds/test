@@ -1,0 +1,66 @@
+{
+  "animeTitle": "A3! Season Spring & Summer الحلقة 1",
+  "episodes": [
+    {
+      "number": 1,
+      "title": "الحلقة 1",
+      "date": "2025-07-17 22:04:42",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=a3!-season-spring-&-summer&episode=1",
+      "image": "https://abdo12249.github.io/1/images/a3!-season-spring-&-summer.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1661094988506"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1mwENME6f5XiOHScHefwBM77ctMKDkX4r/preview"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://vidbem.com/embed-n73ovnypcvzb.html"
+        },
+        {
+          "serverName": "doodstream",
+          "url": "https://dood.to/e/7bzeqf1l18e3g6x5m0lqxuoy08y2laul"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.com/embed-ibljioa7i5dc.html"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed/68gjVCha#UVuSCi6DSSYBy-2OOLuQhUlC4q7vjG_PQ7dbcX3dciA"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/tcaqff9szjm4"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-wigw0z8vt6ce.html"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://ok.ru/videoembed/1661110717146"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/1l7qMQa4ghLl4xssX1OuKh9AszWRV_HXT/preview"
+        },
+        {
+          "serverName": "mega - SD",
+          "url": "https://mega.nz/embed/29pR3AxJ#gq3nu9VtSgvxcpXil3d-L2UHU10V062xrUb-goevF-I"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/zgclk0ui4jsb"
+        },
+        {
+          "serverName": "mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-7f8kv5ivngfz.html"
+        }
+      ]
+    }
+  ]
+}

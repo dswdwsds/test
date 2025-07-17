@@ -1,0 +1,50 @@
+{
+  "animeTitle": "فيلم Hello World",
+  "episodes": [
+    {
+      "number": null,
+      "title": "فيلم Hello World",
+      "date": "2025-07-17 22:01:56",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=hello-world&episode=None",
+      "image": "https://abdo12249.github.io/1/images/hello-world.webp",
+      "servers": [
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/Wh0hGZ_xea"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1Y8hKnaggV7bR6VGAjkf5mY0zK8ROoZj8/preview"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.com/embed-ygdwjjzz994r.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-a6wozogdi73y.html"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-apm8jmqfoif3.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/4mxvyi2671ux"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/1tTT5eZRYPOGD6npYlKxtUpHoIys3pTtX/preview"
+        },
+        {
+          "serverName": "mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-dignyvhloedb.html"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/1hmn9j5fxrek"
+        }
+      ]
+    }
+  ]
+}

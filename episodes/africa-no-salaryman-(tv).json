@@ -1,0 +1,42 @@
+{
+  "animeTitle": "Africa no Salaryman (TV) الحلقة 1",
+  "episodes": [
+    {
+      "number": 1,
+      "title": "الحلقة 1",
+      "date": "2025-07-17 22:09:13",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=africa-no-salaryman-(tv)&episode=1",
+      "image": "https://abdo12249.github.io/1/images/africa-no-salaryman-(tv).webp",
+      "servers": [
+        {
+          "serverName": "ok",
+          "url": "https://ok.ru/videoembed/1242291309274"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1k_E0eaGdITjGwIa78XviPcIKH552tqVR/preview"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/gsWm1NB9ea"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!swxGEa5a!5u5MJdmZ1ltZni8TQp_pwpoicW69PXdW6ugxCNFQ73M"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/ucqbzhrnre2c"
+        },
+        {
+          "serverName": "ok - SD",
+          "url": "https://ok.ru/videoembed/1242297600730"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/1ujSn04Xr-ELettYAtMlF34vqV316_TBV/preview"
+        }
+      ]
+    }
+  ]
+}

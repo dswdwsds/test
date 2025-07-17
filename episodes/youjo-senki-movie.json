@@ -1,0 +1,46 @@
+{
+  "animeTitle": "فيلم Youjo Senki Movie",
+  "episodes": [
+    {
+      "number": null,
+      "title": "فيلم Youjo Senki Movie",
+      "date": "2025-07-17 22:10:14",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=youjo-senki-movie&episode=None",
+      "image": "https://abdo12249.github.io/1/images/youjo-senki-movie.webp",
+      "servers": [
+        {
+          "serverName": "ok",
+          "url": "https://ok.ru/videoembed/1215390223066"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/14v1WrOsFKzMk-UWMNnuT6-6TKPS6oiSE/preview"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!jSQ2gKpI!g8GUjX4fvMVHJq4CLtrfEsJv6IENrSBGLnW6H1qb6AQ"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/rS_8VBV_fi"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=sQlW&w=640&h=320"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/vozw3kilbqvx"
+        },
+        {
+          "serverName": "ok - SD",
+          "url": "https://ok.ru/videoembed/1215398021850"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/10lP2hfZiXPxbuEbUPqLRILjNlRg8NxiO/preview"
+        }
+      ]
+    }
+  ]
+}

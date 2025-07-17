@@ -1,0 +1,92 @@
+{
+  "animeTitle": "Another World الحلقة 1",
+  "episodes": [
+    {
+      "number": 1,
+      "title": "الحلقة 1",
+      "date": "2025-07-17 22:08:56",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=another-world&episode=1",
+      "image": "https://abdo12249.github.io/1/images/another-world.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1283602582234"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.com/embed-vbcusd3t7tg8.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-10s2q2nmzfzd.html"
+        },
+        {
+          "serverName": "vidbem",
+          "url": "https://vidbem.com/embed-6dtvuofbn3wo.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/v4njsyyq9gzc"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "الحلقة 2",
+      "date": "2025-07-17 22:08:56",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=another-world&episode=2",
+      "image": "https://abdo12249.github.io/1/images/another-world.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1283907128026"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.com/embed-fg51bmm1fx8t.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-63sbz3lvcvf9.html"
+        },
+        {
+          "serverName": "vidbem",
+          "url": "https://vidbem.com/embed-cm1p57vebdsl.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/2h251ach1f1x"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "الحلقة 3",
+      "date": "2025-07-17 22:08:56",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=another-world&episode=3",
+      "image": "https://abdo12249.github.io/1/images/another-world.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1290131278554"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.com/embed-q86rvxthvcqc.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-s5wi3czvdrq6.html"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/emb.html?iu2gexbw1ozt=img.vidbm.com/iu2gexbw1ozt"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/d0hjw7bnvkum"
+        }
+      ]
+    }
+  ]
+}

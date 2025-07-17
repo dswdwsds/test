@@ -1,0 +1,82 @@
+{
+  "animeTitle": "فيلم Kaijuu no Kodomo",
+  "episodes": [
+    {
+      "number": null,
+      "title": "فيلم Kaijuu no Kodomo",
+      "date": "2025-07-17 22:03:47",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=kaijuu-no-kodomo&episode=None",
+      "image": "https://abdo12249.github.io/1/images/kaijuu-no-kodomo.webp",
+      "servers": [
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=4cJhy&w=640&h=320"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1bI8rRrdlwLeMvnkp0JCQgAjGD5Rd0yzU/preview"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/gN5h4E5Hea"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!v6ZhTA4R!-6gv8M2R05pnrC8gVKFl14FasK4irKPoRpmkpNdNMX8"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/4xfx3u76feup"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-amtvkfdrh8m6.html"
+        },
+        {
+          "serverName": "vidfast",
+          "url": "https://anime4up.sbs/embed-3a14865zyebl.html"
+        },
+        {
+          "serverName": "vidoza",
+          "url": "https://vidoza.net/embed-omlwq8jai42x.html"
+        },
+        {
+          "serverName": "mystream",
+          "url": "https://embed.mystream.to/7epk0u4rbvr6"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.com/embed-qcdu5wutnnwj.html"
+        },
+        {
+          "serverName": "jawcloud",
+          "url": "https://jawcloud.co/embed-t6wsnziqdup1.html"
+        },
+        {
+          "serverName": "gounlimited",
+          "url": "https://gounlimited.to/embed-t3kh8qizqx9k.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-tnxhwq0c9npn.html"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://ok.ru/videoembed/1369619106522"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/1EUqEucrRS2vLGgfKtIpxHFTPAlF3IMon/preview"
+        },
+        {
+          "serverName": "letsupload - SD",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=4SGMd&w=640&h=320"
+        },
+        {
+          "serverName": "mega - SD",
+          "url": "https://mega.nz/embed#!Sngz1DSD!oLzkO1XLIFuc9Wo_sXxkE3hnzRehURkXyTdF-E0yYlQ"
+        }
+      ]
+    }
+  ]
+}

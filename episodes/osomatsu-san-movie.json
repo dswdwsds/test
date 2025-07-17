@@ -1,0 +1,70 @@
+{
+  "animeTitle": "فيلم Osomatsu-san Movie",
+  "episodes": [
+    {
+      "number": null,
+      "title": "فيلم Osomatsu-san Movie",
+      "date": "2025-07-17 21:55:54",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=osomatsu-san-movie&episode=None",
+      "image": "https://abdo12249.github.io/1/images/osomatsu-san-movie.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1485890128602"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1pPvLSIyl-DC4wGwmJp4OMuY3lZop3iyd/preview"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-ra29jrhhffwo.html"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed/sEQDyAJL#bQxU4UHkQN1Cg_Um-BBqwdNY-8-RsU_RFh6Y8m6r7i4"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/dkkry6i2zsl7"
+        },
+        {
+          "serverName": "vidfast",
+          "url": "https://anime4up.sbs/embed-o9oec2u19y6h.html"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.com/embed-ypvei4dmk9af.html"
+        },
+        {
+          "serverName": "mystream",
+          "url": "https://embed.mystream.to/nqog7ctgi1e4"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-upload.com/embed-ojem4ntce0c2.html"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://ok.ru/videoembed/1485903301338"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/12ChljfYTWdpL_jrF-8zkVgLPRozKIEzA/preview"
+        },
+        {
+          "serverName": "mega - SD",
+          "url": "https://mega.nz/embed/RZ5XVIYL#K3d-Yog5_QOLp0gVpaCU5EV7ZX9ZL2cBqhZPznyBiE8"
+        },
+        {
+          "serverName": "vidbm - SD",
+          "url": "https://www.vidbm.com/embed-mb6orx3rfx2w.html"
+        },
+        {
+          "serverName": "mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-nofgebfjehqq.html"
+        }
+      ]
+    }
+  ]
+}

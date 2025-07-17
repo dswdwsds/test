@@ -1,0 +1,42 @@
+{
+  "animeTitle": "اونا And2! And2!",
+  "episodes": [
+    {
+      "number": 2,
+      "title": "اونا And2! And2!",
+      "date": "2025-07-17 22:09:52",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=and2!-and2!&episode=2",
+      "image": "https://abdo12249.github.io/1/images/and2!-and2!.webp",
+      "servers": [
+        {
+          "serverName": "ok",
+          "url": "https://ok.ru/videoembed/1226033662682"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1O71qMvpy7JlvohVHpVAbnwgQhkwusl2N/preview"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/KpZVgaKjavGMV"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!M2oFUAQQ!QFJI5QAvLY9jRE4mF0rTp1WbVFvPwF-9lEIomS-OQyw"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/76qt0juwjmk0"
+        },
+        {
+          "serverName": "ok - SD",
+          "url": "https://ok.ru/videoembed/1226035366618"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/1EfoHh_XIVIhnpxx3u5AitgLaDI2V3z7O/preview"
+        }
+      ]
+    }
+  ]
+}

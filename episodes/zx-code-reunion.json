@@ -1,0 +1,79 @@
+{
+  "animeTitle": "Z/X: Code Reunion الحلقة 1",
+  "episodes": [
+    {
+      "number": 1,
+      "title": "الحلقة 1",
+      "date": "2025-07-17 22:09:42",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=zx-code-reunion&episode=1",
+      "image": "https://abdo12249.github.io/1/images/zx-code-reunion.webp",
+      "servers": [
+        {
+          "serverName": "ok",
+          "url": "https://ok.ru/videoembed/1249429687002"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1j_mwEvNQybrFt_Njof9C2qVYujJoHuAN/preview"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/aZQ2rrDBRrRm6"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!t9gByCDT!e58hTF_ngmK475a0lZy7eyoXdLLuG0fWQtvppO-wQD8"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/1bo1u3ue2gjd"
+        },
+        {
+          "serverName": "ok - SD",
+          "url": "https://ok.ru/videoembed/1249431456474"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/1KtLIWP5jiooNrVcBcZe5obdYF076aswr/preview"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "الحلقة 2",
+      "date": "2025-07-17 22:09:42",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=zx-code-reunion&episode=2",
+      "image": "https://abdo12249.github.io/1/images/zx-code-reunion.webp",
+      "servers": [
+        {
+          "serverName": "ok",
+          "url": "https://ok.ru/videoembed/1281191578330"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/11SDz7J_KxlSrJPN4kDweFH37tJ0sQUQw/preview"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/8pKYdQjLQGA8m"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!Wf5FCKgJ!hw60acHQu4JQj6lsUNV_2__PyGTO1-ybFCwxTDoDNj8"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/pun5tkq1e24w"
+        },
+        {
+          "serverName": "ok - SD",
+          "url": "https://ok.ru/videoembed/1281196690138"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/1G0V1arT3LgqaQvLJHlGjpyoRf1Muw9b8/preview"
+        }
+      ]
+    }
+  ]
+}

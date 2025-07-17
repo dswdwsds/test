@@ -1,0 +1,82 @@
+{
+  "animeTitle": "فيلم Promare",
+  "episodes": [
+    {
+      "number": null,
+      "title": "فيلم Promare",
+      "date": "2025-07-17 22:03:54",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=promare&episode=None",
+      "image": "https://abdo12249.github.io/1/images/promare.webp",
+      "servers": [
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=O7tc&w=640&h=320"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1__zVQ1dnRuIe4DUaHwWmXkRsjtF_GFHR/preview"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/kXA1LeW-ea"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!YM9VAaoZ!MxTywvK7OXqLqlfFUPLz8yXofk6ycWJb2Tkus3JRtG4"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/tzvrmhl2bdzk"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-hf7jjdmart49.html"
+        },
+        {
+          "serverName": "vidfast",
+          "url": "https://anime4up.sbs/embed-bt26pywp65z3.html"
+        },
+        {
+          "serverName": "vidoza",
+          "url": "https://vidoza.net/embed-q2iqlo1gor4q.html"
+        },
+        {
+          "serverName": "mystream",
+          "url": "https://embed.mystream.to/1nb30ycjhooa"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.com/embed-7s8qkek7ksa5.html"
+        },
+        {
+          "serverName": "jawcloud",
+          "url": "https://jawcloud.co/embed-yvlj10tn61e2.html"
+        },
+        {
+          "serverName": "gounlimited",
+          "url": "https://gounlimited.to/embed-aj71544rbw6j.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-hhfztd4q01ll.html"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://ok.ru/videoembed/1356022287066"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/1iEMiE2bdh2ID-YC9-JIx2edByB_Jm81N/preview"
+        },
+        {
+          "serverName": "letsupload - SD",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=5xPJj&w=640&h=320"
+        },
+        {
+          "serverName": "mega - SD",
+          "url": "https://mega.nz/embed#!8AsXyQ5b!hSEoLWabwfd4lyBFIFwQciIavCfO6a9GGtpJVobOhXU"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "animeTitle": "فيلم Cencoroll Connect",
+  "episodes": [
+    {
+      "number": null,
+      "title": "فيلم Cencoroll Connect",
+      "date": "2025-07-17 22:09:07",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=cencoroll-connect&episode=None",
+      "image": "https://abdo12249.github.io/1/images/cencoroll-connect.webp",
+      "servers": [
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=28wfa&w=640&h=320"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1FuoRWUAK611bneV5yefJfRTpt22IhMF5/preview"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/KpXdRWwpKGeP4"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/TT2C-eLiiq"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!J8dnRQrL!kyXagj0uwGvP6FK43AmQcC3wGT6bHvzY9vvky20HM70"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/t7iq79t4je2l"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/emb.html?qaze1bt2fpt5=img.vidbm.com/qaze1bt2fpt5"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-2oo7x4nujtx5.html"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/1Vab0CciuTSexyeNCEsg-d3RQMbbFm4AX/preview"
+        },
+        {
+          "serverName": "letsupload - SD",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=28wh6&w=640&h=320"
+        },
+        {
+          "serverName": "mega - SD",
+          "url": "https://mega.nz/embed#!k4VVAA7L!E8lDpu8mwveJBBXtBXSdKScBraBErry74Gem5HG2H3w"
+        },
+        {
+          "serverName": "mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-247sh9gsj3q7.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "animeTitle": "اوفا It’s My Life",
+  "episodes": [
+    {
+      "number": null,
+      "title": "اوفا It’s My Life",
+      "date": "2025-07-17 22:08:58",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=it’s-my-life&episode=None",
+      "image": "https://abdo12249.github.io/1/images/it’s-my-life.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1307834190554"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1icrj9G51bTzee32brMbYwRDTRq1CoVzR/preview"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/GG3jZdD4Vp2Mz"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/A0AGRQzKiq"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!RgUXXChA!mRAyQ-7XtFhyLpUy68voiMmWclGHeXUuQ-WTJYQynlk"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/y0sbpp307n8x"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/emb.html?obg1qb61a27u=img.vidbm.com/obg1qb61a27u"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-ga4c66q1otsc.html"
+        }
+      ]
+    }
+  ]
+}

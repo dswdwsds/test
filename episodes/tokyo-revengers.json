@@ -1,6 +1,39 @@
 {
-  "animeTitle": "Tokyo Revengers الحلقة 1 مدبلجة للعربية",
+  "animeTitle": "Tokyo Revengers الحلقة 0",
   "episodes": [
+    {
+      "number": 0,
+      "title": "الحلقة 0",
+      "date": "2025-07-17 21:45:00",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=tokyo-revengers&episode=0",
+      "image": "https://abdo12249.github.io/1/images/tokyo-revengers.webp",
+      "servers": [
+        {
+          "serverName": "megamax - FHD",
+          "url": "https://megamax.me/iframe/DZCFi98XIswJY"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/7030367521498"
+        },
+        {
+          "serverName": "vidmoly - FHD",
+          "url": "https://vidmoly.to/embed-6468sr5rixnz.html"
+        },
+        {
+          "serverName": "uqload - FHD",
+          "url": "https://uqload.net/embed-06ckbwz3ajch.html"
+        },
+        {
+          "serverName": "Mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-501tc1rjfw3m.html"
+        },
+        {
+          "serverName": "Sendvid - FHD",
+          "url": "https://sendvid.com/embed/a5ve2dm5"
+        }
+      ]
+    },
     {
       "number": 1,
       "title": "الحلقة 1",
@@ -2089,6 +2122,95 @@
         {
           "serverName": "uptostream - SD",
           "url": "https://uptostream.com/iframe/g5y35omo5r9l"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "title": "الحلقة 24",
+      "date": "2025-07-17 21:45:01",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=tokyo-revengers&episode=24",
+      "image": "https://abdo12249.github.io/1/images/tokyo-revengers.webp",
+      "servers": [
+        {
+          "serverName": "megamax",
+          "url": "https://megamax.me/iframe/UxPvOsEGMhDHy"
+        },
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/kJcUmBRR!IETf74d0acDfY8DlhcK5lHM7gT0OmEY7jliCx7pmMXE"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/2507892394714"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-f9n331zv5zgd.html"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/y4zay2cbvpi2"
+        },
+        {
+          "serverName": "vedbom",
+          "url": "https://vadbam.com/embed-4bza4bjz1g7v.html"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/AWyNRNv7A4M4R"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-oppwe6id9d6l.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/uWNW56Q9ea/"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/hh1cap1jtxaj"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/7030405335770"
+        },
+        {
+          "serverName": "vidmoly - FHD",
+          "url": "https://vidmoly.to/embed-37psuytul6k3.html"
+        },
+        {
+          "serverName": "uqload - FHD",
+          "url": "https://uqload.net/embed-h4jqhicmgf92.html"
+        },
+        {
+          "serverName": "Mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-lfofai0w9xmb.html"
+        },
+        {
+          "serverName": "Sendvid - FHD",
+          "url": "https://sendvid.com/embed/5v8m9uv2"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/1Z9WgQxY!RxNjNR6QTPXLpnKQLD0u8qL9DrvGccOI_0czFFEgBns"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/2507916380890"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/t6s6mjr1v4pi"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-b0vazv5p0pwl.html"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/0eec40xjiqoo"
         }
       ]
     }

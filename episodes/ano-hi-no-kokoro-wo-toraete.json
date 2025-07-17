@@ -1,0 +1,38 @@
+{
+  "animeTitle": "اونا Ano Hi no Kokoro wo Toraete",
+  "episodes": [
+    {
+      "number": null,
+      "title": "اونا Ano Hi no Kokoro wo Toraete",
+      "date": "2025-07-17 22:08:40",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=ano-hi-no-kokoro-wo-toraete&episode=None",
+      "image": "https://abdo12249.github.io/1/images/ano-hi-no-kokoro-wo-toraete.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1325473401562"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1yfqLY3oRMM1rqMKiIjWvvGLQCfrP4-1f/preview"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.com/embed-g6r8w19464vl.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-llki945jib7w.html"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-f5kld01zr4gv.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/9zwb87u2o072"
+        }
+      ]
+    }
+  ]
+}

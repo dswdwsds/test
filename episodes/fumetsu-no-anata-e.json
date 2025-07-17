@@ -1,5 +1,5 @@
 {
-  "animeTitle": "Fumetsu no Anata e الحلقة 1 مدبلجة للعربية",
+  "animeTitle": "Fumetsu no Anata e الحلقة 1",
   "episodes": [
     {
       "number": 1,
@@ -1717,6 +1717,43 @@
         {
           "serverName": "uptostream - SD",
           "url": "https://uptostream.com/iframe/8bt233j3piue"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "الحلقة 20",
+      "date": "2025-07-17 21:44:09",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=fumetsu-no-anata-e&episode=20",
+      "image": "https://abdo12249.github.io/1/images/fumetsu-no-anata-e.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/4522844818138"
+        },
+        {
+          "serverName": "voe.sx - FHD",
+          "url": "https://voe.sx/e/1l4n9elk55oy"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/dpwziqifjnlo"
+        },
+        {
+          "serverName": "uqload - FHD",
+          "url": "https://uqload.net/embed-vwjo7dcm5btw.html"
+        },
+        {
+          "serverName": "Mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-4ifgqfkbnslj.html"
+        },
+        {
+          "serverName": "vadbam - FHD",
+          "url": "https://vadbam.net/embed-wsh8zx1pf3w5.html"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/n7vr3zi0ealf"
         }
       ]
     }

@@ -1,0 +1,854 @@
+{
+  "animeTitle": "Radiant الحلقة 1",
+  "episodes": [
+    {
+      "number": 1,
+      "title": "الحلقة 1",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=1",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1969452091952"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/14h-9wTIG_AEigg_OeMfZiFWYp0vrTAuY/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=1vtiy&w=640&h=320"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/vofikwftrb2u"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!eM5XHJBb!O74k0Aq-K8JKqvc7Qqa1ndn8qyB9bNgujyvG0zQbtqA"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-3v6ta4qfoc4w.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-99dx9rux3b9d.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-l9ba0wye9uj9.html"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "الحلقة 2",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=2",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1969452288560"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1Ck8jdmUCwzz26adGg4SJTFxVrOCFZv57/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=1vtiz&w=640&h=320"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/p2pjgmbtq9ic"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!XBQg2QzR!kj5YT9igi69F89DOkhiShKV0ZM9qnv_PNPZDUIT23zA"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-vjtdvzpw7glh.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-a7a9viudzqhg.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-x7jfacgelr0g.html"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "الحلقة 3",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=3",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1969452223024"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1PwdlmqqCF2FtiDZL3VtoSTyKx5s1PaeA/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2Rodg&w=640&h=320"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/n91xrpmchoby"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!yNIQDKAa!ApgzievSRZRCNudmjSC4zpwReWmYb2729cW6F1ccA8U"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-mogf3e69l4h2.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-qmnjxq9e1jik.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-064hseq0pdmz.html"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "الحلقة 4",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=4",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1969452419632"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1B9uOjXLdB1jto2S-9j0lJUr1beACH_O0/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2Rodh&w=640&h=320"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/es4axh1fvgcm"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!aZpC3a7T!H9_t3PRMZD3NxB-q07CNDZn_oZVjavLGHH_gghsKjbA"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-18hwirjsnzgy.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-m206gy3zv271.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-y2mckgoppm3u.html"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "الحلقة 5",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=5",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1969452354096"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1RmLVV4ZjSWvvESMrR58VDFSe0uY-itPl/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2bqL0&w=640&h=320"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/vx1u93xpdahy"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!SR4AkYaB!Rd4rsTGpkHJICjPE01RNW_ZbJuvlD0lwzTUPdvpz6dI"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-4rbxge42ji1c.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-2op91qtm9d3a.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-ph4a8n4ad3s1.html"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "الحلقة 6",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=6",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1969452157488"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/16jWtdZ7EzCESwVbGk55MUN7KuiX7ryqo/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2bqL1&w=640&h=320"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/1l57777jvutf"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!3doHSa7J!tQgsyeXCVWMuQYVO9ie-o78XbaT2PMGpSw3-ibPb2wI"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-fvgxov0tlxp6.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-hlhjcq02hdm4.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-ph4a8n4ad3s1.html"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "الحلقة 7",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=7",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1969492593200"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1t1elqN2fKcwxisbhcOuoMphz3eTxdJyS/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=1vtlc&w=640&h=320"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/pefspffefl3m"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!LN4AyYSD!Yladtns5V8h96sBSKBj7W7lSfgomFDPhNZrpzHnMEWc"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-5nydn7ajwk8d.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-ajk0u1gp9cfg.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-h6vgicgaosab.html"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "الحلقة 8",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=8",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1969492789808"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1-PcC41--4bDWXza0jup6ecYLXCth6X1q/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=Pw0f&w=640&h=320"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/issox718rmol"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!yYxRXLjK!YYh6RHPyBXhFe0GQlosZrQoSX7oAZPf_xaFKZ3EsQec"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-gessgmp6picg.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-kk93sooe7xkr.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-6el1aw02lgg4.html"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "الحلقة 9",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=9",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1969492724272"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1L5x-b_Nemxzjcc0vybSoujMbrAFwX8iE/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=1vtlp&w=640&h=320"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/h6lc6jsesmlf"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!OQ5XDK6C!cEyFsqpGWmXS1uMFCf9qvY52KZOK5co_cyvAFm5nXTQ"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-e51qi33y3z3x.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-6sbycq3g6hy4.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-r96u35559rzh.html"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "الحلقة 10",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=10",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1969492855344"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1BRmdTnGILUEcpOleyZ94Zie1i0nDVzY1/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/pluginshttps://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2Rogh&w=640&h=320"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/b0iyqsx1hrt0"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!KVQSUAqR!7eHLO9m4RW90fklPbpNguZcJYjVhf5hCMvNBnaSbKps"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-m0rt2giww2ce.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-syqbjrn1e8m1.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-wb37k0y4f4n5.html"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "الحلقة 11",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=11",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1969492920880"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1vxMxN05Ls8wI1ajrFqkQfVoSvU4nA22g/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2bqO8&w=640&h=320"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/p8wm6w7etd2p"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!3JBSzQCa!CJw4aaChB6FOrl7F0_kpxfhfR2MwbVl_gQeBqufGZoc"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-p6wyy48f9n4y.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-snncitkgjyo8.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-xg7a9g7rl6l1.html"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "الحلقة 12",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=12",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1969492658736"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1cldyED8jNt86vL-CvVSiWkBYHu0VkfJs/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2Rogw&w=640&h=320"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/t3mczm4tidce"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!aVpF1KRT!FfhYj0ilBePUTBZiMA2VNb8_VX83cxyemowmCDPT56A"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-q3gaqk7mltk8.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-ovkh400u74or.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-6gnulfkot4er.html"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "الحلقة 13",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=13",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1396630751962"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1Em0rt77qivFqLm6BuNi0HfitUslK1HOJ/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=3xCs8&w=640&h=320"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!jI9X1Tja!LnUS7QjGrjRla4Wf4GNtkMyVGK4cSPZAcn6KBGxEPfk"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/qgddg5qw7bwx"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-u82l7w95oml5.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-i40rbszz59xf.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-4tsec6cfe486.html"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "الحلقة 14",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=14",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1396640844506"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1bZ37PN1caal47vuh6ndxV-oY2yBNECrV/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2RF0y&w=640&h=320"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!vJ9SxIaA!Ov5Ri0J-3r29uQLWbOtEcbPsnznWGkbtrTto9tO6BrY"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/uou15tozaoms"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-ajrrrmvyigdc.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-62k68lra4r2l.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-tdprmtguppev.html"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "الحلقة 15",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=15",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1396650019546"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/12xyDBFL706tdn-jeOEOomCLIUYaj4k5-/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2RF1l&w=640&h=320"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!PRcUkawK!croVlpa6w1Ig0qtU8019CYVk2zRrduxTt4mHQBwyTf8"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/8iuxuw2eq5tk"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-a6msqklh907f.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-f5qz13tz5fol.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-7oy2r0qctkwe.html"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "الحلقة 16",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=16",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1396650216154"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1G_fxcuwaV5V9tW6fi2N1ILwoHKoKvefG/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2RF1u&w=640&h=320"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!LFcWySCC!pcMJst0iKf5EbcoQRPF8OsJS1AxnaQvcoBo0zqq1e4E"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/f4r1mguwfprk"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-5lu5g6wvmqy4.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-m3gvdrne2grs.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-ag3cjiebf88m.html"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "الحلقة 17",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=17",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1396650281690"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/12X1aHitWXl9X8fM6ZkUr5P6isyGgYTwG/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=3xCvg&w=640&h=320"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!6RFQAQiZ!V5nJPLqhcDonB0bh12vyq6f_gm9q4VoC7yTHdlBegFI"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/dfcyl6pk3fgb"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-w9x1fpdjqix2.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-q62841yxtgya.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-q9izqrlmxk3j.html"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "الحلقة 18",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=18",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1396650150618"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1MiUA2B3ewsIRzifZGoZ6ANKa64Nruvu8/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2bHzt&w=640&h=320"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!7cszkazJ!VMlIXOcjrvuCSBvO1loniwaXZ2mjOFwkVCGSpscTTzs"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/94qdt47i2sbj"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-whhm9mrdbhnh.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-nj9fpyg8g3b5.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-bworlfqabv5r.html"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "الحلقة 19",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=19",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1396650347226"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1pjhHjhUzvK3xP-WCtsNiDAiJ1qSvfpuP/preview"
+        },
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=3xCuc&w=640&h=320"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!WRFWmCrY!rnHKZWUWQaOFtwannYoL1rvrD07tunhX5kKQLyo5qPM"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/yfhv11e0o505"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-k7rjf9nrgx2n.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-q5zbrynjmj0l.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-y86rhfhl9yyq.html"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "الحلقة 20",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=20",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2RF22&w=640&h=320"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1Y58hRLMTqDyXofVZLeYKFvgjiGaPKDki/preview"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!GVcEyK4B!OkxPYoXHVPBx7BSMYgeq7zxiChhIHZTLKldq3U70jxs"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/8m3sdb24mn85"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-1426st5463bb.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-pgn74nb7ptvm.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-ifgnxthmndcq.html"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "الحلقة 21",
+      "date": "2025-07-17 22:04:04",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=radiant&episode=21",
+      "image": "https://abdo12249.github.io/1/images/radiant.webp",
+      "servers": [
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2RF5m&w=640&h=320"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1bKWMYAHM4pPKjvD6xdC6MxYChY0spCzE/preview"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/skmxjrx1fhti"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-65lcpia0mw1w.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-9hm9nlw5st6a.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-y7i91pecxv8j.html"
+        }
+      ]
+    }
+  ]
+}

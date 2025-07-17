@@ -1,0 +1,34 @@
+{
+  "animeTitle": "Mitaiken Horizon الحلقة 1",
+  "episodes": [
+    {
+      "number": 1,
+      "title": "الحلقة 1",
+      "date": "2025-07-17 22:09:46",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=mitaiken-horizon&episode=1",
+      "image": "https://abdo12249.github.io/1/images/mitaiken-horizon.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1292129536730"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.com/embed-8z0zfsnjctsw.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-a2a9g18im4iq.html"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/emb.html?h48ypsxw5xo1=img.vidbm.com/h48ypsxw5xo1"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/1ycwkbpzlblj"
+        }
+      ]
+    }
+  ]
+}

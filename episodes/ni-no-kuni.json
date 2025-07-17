@@ -1,0 +1,82 @@
+{
+  "animeTitle": "فيلم Ni no Kuni",
+  "episodes": [
+    {
+      "number": null,
+      "title": "فيلم Ni no Kuni",
+      "date": "2025-07-17 22:04:12",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=ni-no-kuni&episode=None",
+      "image": "https://abdo12249.github.io/1/images/ni-no-kuni.webp",
+      "servers": [
+        {
+          "serverName": "letsupload",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=1tqd9&w=640&h=320"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1cyLm6YxMmfuRFK0iccc0LMf728iHoxmi/preview"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/PjZf_gYMea"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!UQVg2aQC!YJF1TYDxNd2NbLsbUVTpLbBwD5Klf6HluiQAsglTJYM"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/fxkx44ukfjuq"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-44rdltcr42j5.html"
+        },
+        {
+          "serverName": "vidfast",
+          "url": "https://anime4up.sbs/embed-btn38cocpfsh.html"
+        },
+        {
+          "serverName": "vidoza",
+          "url": "https://vidoza.net/embed-z9st8idumt5f.html"
+        },
+        {
+          "serverName": "mystream",
+          "url": "https://embed.mystream.to/uj1jx4865b0f"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.com/embed-hpb1v3kjziv6.html"
+        },
+        {
+          "serverName": "gounlimited",
+          "url": "https://gounlimited.to/embed-bdpm6iskdvd5.html"
+        },
+        {
+          "serverName": "jawcloud",
+          "url": "https://jawcloud.co/embed-rv5w4lno5m1z.html"
+        },
+        {
+          "serverName": "file upload",
+          "url": "https://www.file-up.org/embed-5z4ag03x50bh.html"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/1JbId6IeDdOsq7qBru8ffx_1E2vQUBq8e/preview"
+        },
+        {
+          "serverName": "letsupload - SD",
+          "url": "https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=1tqff&w=640&h=320"
+        },
+        {
+          "serverName": "mega - SD",
+          "url": "https://mega.nz/embed#!5FE1XaSQ!TKAilM98VYblbEhRirWkHeTPU2aY8cpYoAnVJT3dHhg"
+        },
+        {
+          "serverName": "mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-tc2kcgpepooe.html"
+        }
+      ]
+    }
+  ]
+}

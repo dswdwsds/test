@@ -1,0 +1,580 @@
+{
+  "animeTitle": "Listeners الحلقة 1",
+  "episodes": [
+    {
+      "number": 1,
+      "title": "الحلقة 1",
+      "date": "2025-07-17 22:02:40",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=listeners&episode=1",
+      "image": "https://abdo12249.github.io/1/images/listeners.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1414840388314"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-yhc8xv8i922p.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/ea1fv9s37rsg"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-rey1sk3tzay8.html"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://ok.ru/videoembed/1414845237978"
+        },
+        {
+          "serverName": "google drive - FHD",
+          "url": "https://drive.google.com/file/d/1_d-9B4nvzNgbkY0mwwzG2SZpO5ml8U9c/preview"
+        },
+        {
+          "serverName": "mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-n4ado68gdq7k.html"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://ok.ru/videoembed/1414843271898"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/1gxnhc5dnue9"
+        },
+        {
+          "serverName": "mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-qmjq9lex02cq.html"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "الحلقة 2",
+      "date": "2025-07-17 22:02:40",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=listeners&episode=2",
+      "image": "https://abdo12249.github.io/1/images/listeners.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1420271553242"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1N-Y3KmcsvyLOtc4Cnqm8ha1RsrsSqveI/preview"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-hn3rddg5idgq.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/cvi2vm8ho4cd"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-plwo03zs1tp4.html"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://ok.ru/videoembed/1420281580250"
+        },
+        {
+          "serverName": "google drive - FHD",
+          "url": "https://drive.google.com/file/d/1b3EkShLcPAwzdQhLaLgGgweVEJHyZmRP/preview"
+        },
+        {
+          "serverName": "mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-g8vcvkl844bq.html"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://ok.ru/videoembed/1420280072922"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/1YCM9vjzfa6kkjIj5YmFo15p1EVgyeiXe/preview"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/4mzx9a5aa5xh"
+        },
+        {
+          "serverName": "mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-7mwbp6fc3c7k.html"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "الحلقة 3",
+      "date": "2025-07-17 22:02:40",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=listeners&episode=3",
+      "image": "https://abdo12249.github.io/1/images/listeners.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1428498156250"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-w2c4ii47oi4a.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/thfa1cm1li9t"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-wil8f5uwvv4b.html"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://ok.ru/videoembed/1428508379866"
+        },
+        {
+          "serverName": "mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-fm0u096mgp4q.html"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://ok.ru/videoembed/1428501170906"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/cax32vach3v7"
+        },
+        {
+          "serverName": "mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-cdxufirrbj6g.html"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "الحلقة 4",
+      "date": "2025-07-17 22:02:40",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=listeners&episode=4",
+      "image": "https://abdo12249.github.io/1/images/listeners.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1436594473690"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1tanpHKME_KDAjGhcqZrj7juJy1yR6KzR/preview"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-8soqx8eolwt2.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/z3zgksfwqr91"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-ey88fqe4ivn3.html"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://ok.ru/videoembed/1436599519962"
+        },
+        {
+          "serverName": "google drive - FHD",
+          "url": "https://drive.google.com/file/d/14EjoQyudS08o-YK0n6KIzcyC0xM71ZhJ/preview"
+        },
+        {
+          "serverName": "mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-tl4bc4tci6hk.html"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://ok.ru/videoembed/1436596112090"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/101Y7xfdDol0uZM76q5sVh--pNDTTtNtK/preview"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/8qyy2ssn581q"
+        },
+        {
+          "serverName": "mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-5hw9ae8ijw65.html"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "الحلقة 5",
+      "date": "2025-07-17 22:02:40",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=listeners&episode=5",
+      "image": "https://abdo12249.github.io/1/images/listeners.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1444177578714"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-klqdjfqx67dy.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/nxf80ug4o3d0"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-2uavmok648eb.html"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://ok.ru/videoembed/1444184591066"
+        },
+        {
+          "serverName": "mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-yqwrs87c67s1.html"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://ok.ru/videoembed/1444180003546"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/h70aln7xvl4b"
+        },
+        {
+          "serverName": "mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-5qxknmgh1t0y.html"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "الحلقة 6",
+      "date": "2025-07-17 22:02:40",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=listeners&episode=6",
+      "image": "https://abdo12249.github.io/1/images/listeners.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1451625548506"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1IxKp4MrrHxjHdFp-qLAKEf-rIP9zkGWJ/preview"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-wu71mezqpjgl.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/ktp4ppgely4c"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-l5uuncrt1e9x.html"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://ok.ru/videoembed/1451629808346"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/1HyOMu0_n1ux2O4ubhEkHZPZxm-YlTEks/preview"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/v39uecjo6x9o"
+        },
+        {
+          "serverName": "mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-bm0g1rijm3z5.html"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "الحلقة 7",
+      "date": "2025-07-17 22:02:40",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=listeners&episode=7",
+      "image": "https://abdo12249.github.io/1/images/listeners.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1459791989466"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/159c3fT3UtSnm0kzQ366xDuGiwTqz2kde/preview"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-tvdbhf62ubrh.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/9hevbqn5szyu"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-llgj1iic8ljk.html"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://ok.ru/videoembed/1459797297882"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/1TFman2wOjUe2Heh854y2R59Rt_emf1YU/preview"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/srxav4p08fk2"
+        },
+        {
+          "serverName": "mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-zqs92b7qyhfj.html"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "الحلقة 8",
+      "date": "2025-07-17 22:02:40",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=listeners&episode=8",
+      "image": "https://abdo12249.github.io/1/images/listeners.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1468961852122"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/18Kr2uMnPXZ51XWRk4wdVShrj13wS_2q1/preview"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-9xu2zcrqkz8o.html"
+        },
+        {
+          "serverName": "vidfast",
+          "url": "https://anime4up.sbs/embed-329v0geh5bhv.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/sfzlpu731siw"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-frzkljpvi4t1.html"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://ok.ru/videoembed/1468971485914"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/14OTcSqWnL89w9YCQK9TTyMBh-DK0i7qV/preview"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/1axhac1c42im"
+        },
+        {
+          "serverName": "mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-r6r2bxvmobzt.html"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "الحلقة 9",
+      "date": "2025-07-17 22:02:40",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=listeners&episode=9",
+      "image": "https://abdo12249.github.io/1/images/listeners.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1478727764698"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1HHZu50E9TxD8DQmxhAXrm3I0KfWqezw1/preview"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-jqouifn83wlk.html"
+        },
+        {
+          "serverName": "vidfast",
+          "url": "https://anime4up.sbs/embed-ulphdpnme5vw.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/j1fbsz72eigx"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-9629bxnpsa7e.html"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://ok.ru/videoembed/1478757518042"
+        },
+        {
+          "serverName": "google drive - FHD",
+          "url": "https://drive.google.com/file/d/1BUF42w2WOR_hdCxcKcRXdSycdSI7zlZB/preview"
+        },
+        {
+          "serverName": "mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-yb61cj1vhrr1.html"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://ok.ru/videoembed/1478737398490"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/1jWxt09bYAkRLEFrvMRKSPrKgjLY1JP-v/preview"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/t587ilzfd316"
+        },
+        {
+          "serverName": "mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-eta4hdzztocu.html"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "الحلقة 10",
+      "date": "2025-07-17 22:02:40",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=listeners&episode=10",
+      "image": "https://abdo12249.github.io/1/images/listeners.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1488678750938"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1Zw_fq-lPy-NUxEt5IYuI5a1C9S0oeeyB/preview"
+        },
+        {
+          "serverName": "vidbm",
+          "url": "https://www.vidbm.com/embed-wrjldfu6bki8.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/18dwrkdy68pp"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-53cdby5nk4t0.html"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://ok.ru/videoembed/1488689171162"
+        },
+        {
+          "serverName": "google drive - FHD",
+          "url": "https://drive.google.com/file/d/12fW3UuZ6Eby0dK-T9UX4U3EWqktlGihi/preview"
+        },
+        {
+          "serverName": "mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-rscqw2bh4l14.html"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://ok.ru/videoembed/1488682552026"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/1LMuGeMjSydb2WqBPwHZ-CZSLv-3mLrGO/preview"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/8vep52vethje"
+        },
+        {
+          "serverName": "mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-mkns93f2gg3a.html"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "الحلقة 12",
+      "date": "2025-07-17 22:02:41",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=listeners&episode=12",
+      "image": "https://abdo12249.github.io/1/images/listeners.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1510143494874"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1_tLr6aaOWdhVTJiTEMzG_P2p_D0F5k85/preview"
+        },
+        {
+          "serverName": "vidbem",
+          "url": "https://vidbem.com/embed-et4lkw890exa.html"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.com/embed-uz1n4d38j8qc.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/y20nxdumw4od"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-thdkokpe3f4h.html"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://ok.ru/videoembed/1510149065434"
+        },
+        {
+          "serverName": "google drive - FHD",
+          "url": "https://drive.google.com/file/d/1nb1F27mt1heA3ZtL1AaQ6uTi9BZ_LUzv/preview"
+        },
+        {
+          "serverName": "vidbem - FHD",
+          "url": "https://vidbem.com/embed-qacsjcjpw4ls.html"
+        },
+        {
+          "serverName": "mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-q80hc55jsu3i.html"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://ok.ru/videoembed/1510146575066"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/1kLXE3Ds8-GzGl59G5LQrGyrBznP9Lyu6/preview"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/ris3h4p9xsmj"
+        },
+        {
+          "serverName": "mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-cbuiet5rnjw4.html"
+        }
+      ]
+    }
+  ]
+}

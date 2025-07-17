@@ -1,0 +1,50 @@
+{
+  "animeTitle": "Black Fox الحلقة الخاصة",
+  "episodes": [
+    {
+      "number": null,
+      "title": "Black Fox الحلقة الخاصة",
+      "date": "2025-07-17 22:10:13",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=black-foxالخاصة&episode=None",
+      "image": "https://abdo12249.github.io/1/images/black-foxالخاصة.webp",
+      "servers": [
+        {
+          "serverName": "ok",
+          "url": "https://ok.ru/videoembed/1235866159834"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1QtLRVaXUyp2LepRPwpWSmm4gvmRT1pH6/preview"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/xK4jzXQZa3yk5"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!95ghBIoQ!GvT-i9POu-em6nLULXThTXy59l0nSxSNYrg53--oC_c"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/zirzp50wd8dh"
+        },
+        {
+          "serverName": "ok - FHD",
+          "url": "https://ok.ru/videoembed/1235879463642"
+        },
+        {
+          "serverName": "google drive - FHD",
+          "url": "https://drive.google.com/file/d/1go8Or3rwaoENTqi76IV5KtyhxOwRZJfu/preview"
+        },
+        {
+          "serverName": "ok - SD",
+          "url": "https://ok.ru/videoembed/1235874089690"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/1MFO3lXlIomdXVLwpBckgO7nFwXJXSVBC/preview"
+        }
+      ]
+    }
+  ]
+}

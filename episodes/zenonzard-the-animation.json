@@ -1,0 +1,46 @@
+{
+  "animeTitle": "Zenonzard The Animation الحلقة 00",
+  "episodes": [
+    {
+      "number": 0,
+      "title": "الحلقة 0",
+      "date": "2025-07-17 21:56:38",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=zenonzard-the-animation&episode=0",
+      "image": "https://abdo12249.github.io/1/images/zenonzard-the-animation.webp",
+      "servers": [
+        {
+          "serverName": "ok.ru",
+          "url": "https://ok.ru/videoembed/1231180335834"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.com/embed-os85dw8lu3y2.html"
+        },
+        {
+          "serverName": "mp4upload",
+          "url": "https://www.mp4upload.com/embed-2bbmg7naasuc.html"
+        },
+        {
+          "serverName": "vidbem",
+          "url": "https://vidbem.com/embed-gxs7knwny58v.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/1io60kpxxw19"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://ok.ru/videoembed/1231189773018"
+        },
+        {
+          "serverName": "mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-hj7b34gy8myc.html"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/vbb4arwmuuyg"
+        }
+      ]
+    }
+  ]
+}

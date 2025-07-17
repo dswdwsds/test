@@ -1,0 +1,50 @@
+{
+  "animeTitle": "فيلم Laidbackers",
+  "episodes": [
+    {
+      "number": null,
+      "title": "فيلم Laidbackers",
+      "date": "2025-07-17 22:10:03",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=laidbackers&episode=None",
+      "image": "https://abdo12249.github.io/1/images/laidbackers.webp",
+      "servers": [
+        {
+          "serverName": "ok",
+          "url": "https://ok.ru/videoembed/1236940032730"
+        },
+        {
+          "serverName": "google drive",
+          "url": "https://drive.google.com/file/d/1rYY8wZ-uzqVbSKX6k5Hpt-Tu2zpIogUE/preview"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/BmLnrQvLfi"
+        },
+        {
+          "serverName": "mega",
+          "url": "https://mega.nz/embed#!4oYwBQBC!a0Amvd7tDColC9W5POUU57LdwTN9s3VtfY7PCByY_LE"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/r9ufdq37kqcy"
+        },
+        {
+          "serverName": "ok - FHD",
+          "url": "https://ok.ru/videoembed/1236937607898"
+        },
+        {
+          "serverName": "google drive - FHD",
+          "url": "https://drive.google.com/file/d/1wCUc2Oyu32TkF8oLtXLoPIRdTO0n2ocE/preview"
+        },
+        {
+          "serverName": "ok - SD",
+          "url": "https://ok.ru/videoembed/1236946782938"
+        },
+        {
+          "serverName": "google drive - SD",
+          "url": "https://drive.google.com/file/d/1R93nmeffN25T2B4ZUgtY4SBkstJc2A9S/preview"
+        }
+      ]
+    }
+  ]
+}
