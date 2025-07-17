@@ -1,0 +1,837 @@
+{
+  "animeTitle": "Shine Post الحلقة 1",
+  "episodes": [
+    {
+      "number": 1,
+      "title": "الحلقة 1",
+      "date": "2025-07-17 20:01:54",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=shine-post&episode=1",
+      "image": "https://abdo12249.github.io/1/images/shine-post.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/YXNjVAKL!fh5UghJGcjHAUm2PaiRub0nfUIPEAeFC5oKxg3K_6kM"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3534361201370"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-5dc6xp4i180c.html"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/iezqzz9fl72u"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-02tb5gvcva8b.html"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/KgpyryjGWWdNn"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/iaVVU2YUea/"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/z4ssj5awsl1j"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/la0wCDLI!EzvJx9F3LLcZmq6evB4p12SyKTYBleAErWjt2GvBtQs"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3534360808154"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/p89ngrflx1ww"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/8t1dmk32cjrg"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/cTdUQYZb!R_1TZDvOIdJfw94Cx5AbTSK-6Ikl8fIMc4q3jQEgctI"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3534361725658"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/hf9amg37tc9t"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/n5xbeu5q6l8s"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "الحلقة 2",
+      "date": "2025-07-17 20:01:55",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=shine-post&episode=2",
+      "image": "https://abdo12249.github.io/1/images/shine-post.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/NX13iayQ!5SgWr-xORbMG7uuev1mHpZMDcrd3CybPhchNLbHsEDU"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3546561055450"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-hpbj0xinei8t.html"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/gdwa64zutiwm"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-f10n5eyuo6tn.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/GI-qc9Qtiq/Anime4upcom_SP_EP_02_HD"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/u3gn3a69z8dk"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/BbUyiKqZ!HIET4CqIaGFVCbujX6U8sHX5v3fkmi0GpL8M76t70W8"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3546597690074"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/5ue069s6cmwb"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/xm6qgl52bs1f"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/gD9ESKwJ!NVw1Wx6UL40PLRrtaXuzLKcr_tb9RLDXbtfqyi-oA8E"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3546610207450"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/7ievopnn6upf"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/m9gfqjcqimqo"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "الحلقة 3",
+      "date": "2025-07-17 20:01:55",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=shine-post&episode=3",
+      "image": "https://abdo12249.github.io/1/images/shine-post.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/ZGsWSB5Q!839QVnLLfILd4GN4M_M1hBk2igPOG573Pw76JSgTp5U"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3560295500506"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-4haqqe0q4yon.html"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/vcqs48xj4yi4"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-5q89qenzmscx.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/cKsfHhm7iq/"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/ijlrpgvb8jmy"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/cXUhRJjL!wXmw7GOO5SVgsw7Nl5yzM-6761kyL5LcJlOL378g390"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3560294583002"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/0bg9t9ikeh9h"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/4n25hz9mzxov"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/VbUWXSJI!FeeQK9DsWtFb9uOYekK3ZCaVVnKKE8aBm-PfYMk-uos"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3560296024794"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/ebs7axatrko7"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/rjfb75vit2pn"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "الحلقة 4",
+      "date": "2025-07-17 20:01:55",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=shine-post&episode=4",
+      "image": "https://abdo12249.github.io/1/images/shine-post.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/EaMClZoa!QH4GyCfdJXsZYKT6xSRYU2oqOLisYOTUdjWcVqzJ-rE"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3587823176410"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/3ubrsvs9ciwc"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-uekx2ljlmmre.html"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-eudn8ejb57pe.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/_qes28Ypiq/"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/xfjit5bhp7co"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/kLFDGaJQ!LcgBFzintNv-ZEDPo3zaanbPjhA1Q5GPMe_Kryr34P4"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3587833858778"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/t4lp7bn8hf1t"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/444p50oc8os1"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/oDdRTSjT!7Jct_3eCCc-04x9wNOY8tk7WICS3mIfuQHwpisnop10"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3587837004506"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/we8a2b69wbaz"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/el5taek0bbod"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "الحلقة 5",
+      "date": "2025-07-17 20:01:55",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=shine-post&episode=5",
+      "image": "https://abdo12249.github.io/1/images/shine-post.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/ATEywK4K!rHb7tK4IQMsfrJFGUw92NCKS7Nj8COhGujDGpGPY20o"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3605334723290"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-fnz9e9hfdex1.html"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/p16w0w05qhyj"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-pip0q1oxpp34.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/3XeF_A3Xea/"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/wxb47xfj0pbb"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/YPEHkbAQ!uEQf49Xr72u8k8NIXdlxu0N8QhUc5y5hkpt2djwlJpA"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3605350845146"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/tdevp0yb52gl"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/2ly70icvvnzi"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/VTF3UZIB!kzdMFsXXjUhsOwPKHr1yUeazyI8036KRn5A7OiRKrvM"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3605356874458"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/i1p2aendflxq"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/z39d0cnsue67"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "الحلقة 6",
+      "date": "2025-07-17 20:01:55",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=shine-post&episode=6",
+      "image": "https://abdo12249.github.io/1/images/shine-post.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/JbNlUYaR!Zyv5c8FKEDjDkPom2WfD60MPmy6IZFfLqPb-VGESbfU"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3629887458010"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-6r4l3035ete1.html"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/awphxxclilww"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-uzcxraj49d3s.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/YswpRNt8iq/"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/zfvg4iojnbdf"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/cW0GkTjT!32CZFlA-04QdF4CuBROK8XBPii76V3a8OgCE2CbDm8g"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3629893618394"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/px0arkw1b03q"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/0n6k0p1952e7"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/tHcSiSqD!V9xMOsi-7ofJxKOmkhd3g6Obe7_UzKZRskzre65A-c0"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3629903186650"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/39urj1mkzhth"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/m54frxyr3cwg"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "الحلقة 7",
+      "date": "2025-07-17 20:01:55",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=shine-post&episode=7",
+      "image": "https://abdo12249.github.io/1/images/shine-post.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/NK8FlC5K!ETP_Y-OpJDbj69sjNLXPL91OGk6dXOVj3nLMjRxbg9I"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3666746084058"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/qgqx3gri5rng"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-bumrgc7wk5v2.html"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-sy3cwdf56adg.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/yv6lAf7xea/"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/fdx91lqi8wlo"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/hWNWEK6K!Ji-pFxRclOUnNYl9R0aqJILyLFTrfL1usQ9rlmad348"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3666705648346"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/6xyls1qfxd5e"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/gqbp035qkayz"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/ELcxmCDb!uVxBZhoVcKDMfiOJjcgEY5QMOG13MlxXAzGkExZy64U"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3666751130330"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/lfxprbpwizxq"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/2mfdjj8g89r0"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "الحلقة 8",
+      "date": "2025-07-17 20:01:55",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=shine-post&episode=8",
+      "image": "https://abdo12249.github.io/1/images/shine-post.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/gKNmgJTC!loFWELtURNwmiQxCyU3x5m94QszyXu1NPB5hAykxCsE"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3690765880026"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-8c7aax9oduyy.html"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/11450tkaojke"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-7cyaag1odpgl.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/CTo0N43kiq/"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/nzv1aqu9oqew"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/oKkiwJ6R!F-NfMGertrXJnJWo0ucPeINXoLgLOvE3UaMLhZkBDrE"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3690793208538"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/i0z8y17g0c88"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/5jf022laxdmh"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/wTUBUKyZ!j5OAv4jCL_Pti5AEZ1jVncj1pd7UHxeeC2Q3rx4SyAM"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3690796157658"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/j7bmaljuh4bj"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/moktu3w3f4vs"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "الحلقة 9",
+      "date": "2025-07-17 20:01:55",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=shine-post&episode=9",
+      "image": "https://abdo12249.github.io/1/images/shine-post.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/ITci0KCB!pQtQHoibiF0Mqy98fPCt8ZbAHziRKhf22fY3Yrj9FFw"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3714499742426"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/nnpj5gqpc0a8"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-542d24upowty.html"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-irxhkh19sz3s.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/GxvQCM5Nea/"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/88oas633hphc"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/xDNFgaaA!xuzdsT3YXPGRSt0FZoxcuGlUZY2Zmg3HHhMZnUeOyJE"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3714509245146"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/fry9l83sw6lx"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/urw50d9qcv9v"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/oa0l2SyD!B7Q5XVHbryDxg6w3Z2kzxycHl9gn-cSS8HyObzYXnJ8"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3714513767130"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/guyzphl1kuh7"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/2vkztw7eulga"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "الحلقة 10",
+      "date": "2025-07-17 20:01:55",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=shine-post&episode=10",
+      "image": "https://abdo12249.github.io/1/images/shine-post.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/oXFgjaLS!dMnsYbd9hZh2f-9hAM1Rn2LQS1ShdZ2wqG1RYo8GOHA"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3815697943258"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/sfaspxdjh3se"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-oscaisufmyk8.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/sRlpmohJge/"
+        },
+        {
+          "serverName": "vadbam",
+          "url": "https://vadbam.com/embed-trr9f338i8ca.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/vr307jnmmtk5"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/JCETHKQR!OeAYQzKWvfblWJb87DsKIS6royR0TzE6P8TL8AUbDCM"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3815696370394"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/lrkbd2fpg4km"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/hlngxc6mdn3u"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/8fln3CAa!8FhnV7Zk6hI8854ZmL59qRBRy4SbPJgQmZVDCJXpjkY"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3815698205402"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/csx8nxnqf6gj"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/e5c9moma2qho"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "الحلقة 11",
+      "date": "2025-07-17 20:01:55",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=shine-post&episode=11",
+      "image": "https://abdo12249.github.io/1/images/shine-post.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/IfswmZTA!3hg52tJxIjMP9x8LWLzp4oybHQ0Ind-3m-N1RHZudjg"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3815704627930"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/bkxhl9m76mut"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-4oy5lpabfl1s.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/4D8Pz6DMge/"
+        },
+        {
+          "serverName": "vadbam",
+          "url": "https://vadbam.com/embed-4nbqw68c06ee.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/e1h3ar0abr9v"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/VS1XECxR!Fle2B9uOvuDroo7w4Wvg0ukLSTIb09L0OVcbmjzlhYw"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3815703972570"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/cxqe5l3faru0"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/sayppvvx0sdm"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/MPESEJ6T!-VppaHE6qQ9sLSAtJO2vjtfctV8HZaZ7TbHdXDcFZV4"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3815699581658"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/zrosmvm7pk64"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/h3zbl73w6zib"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "الحلقة 12",
+      "date": "2025-07-17 20:01:55",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=shine-post&episode=12",
+      "image": "https://abdo12249.github.io/1/images/shine-post.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/VDcwybZC!KBILRe9ILk8_-MkBsyXzD79LxnnHfL0e0Qv3M4x5_1w"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3835080411866"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/h8gkfv7un6u7"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-21c099sl7vuk.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/oZ3GSNZ6ku/"
+        },
+        {
+          "serverName": "vadbam",
+          "url": "https://vadbam.com/embed-vogknfcqwtsa.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/62yk3xjv2ef2"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/kDdjBLjI!GQUnzMylgVtmej3O0GER4vScSmTaLjdCEzRxR_H5p-I"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3835080215258"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/7clwkr96vyzp"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/qds0pcc1dn44"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/FDthDBDY!MxgJk8SVwe5ph2XNcfQGZKnSP3oF4Bf7zqKNAVhbvGg"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3835080805082"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/9snsu7tqkemp"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/xb08h8xe415q"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,989 @@
+{
+  "animeTitle": "Tomodachi Game الحلقة 1",
+  "episodes": [
+    {
+      "number": 1,
+      "title": "الحلقة 1",
+      "date": "2025-07-17 20:06:27",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=tomodachi-game&episode=1",
+      "image": "https://abdo12249.github.io/1/images/tomodachi-game.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/L9sX0B4Q!7IaVIifgIR5YfOqfHBVp6-MP2D_qY5lx7NZaWarTgu4"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3269672438490"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/yjvkjvchjcud"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-uk5kcpd89dlr.html"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/5dz8j7KvNYwXq"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-8y1izqjiez8o.html"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-a9wu1ojsdnhl.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/1dHuSIQYea"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/88xqm3gp7lls"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/X4dEXRyC!ZMKvVU7ubd-6vi48rLK32iq6aHQifZnSbObKhAPTPds"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3269671062234"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/0dhefgo3okyn"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/l6qrcfmu278c"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/P9EzBBQA!NqEXzS4Ms5aGDy30XhTFpC8dFKOQ4Xsbfh-KNhzuDr4"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3269671324378"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/poicu6uz4v5a"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-eyowiqo07v3s.html"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/9akl4dztgwdc"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "الحلقة 2",
+      "date": "2025-07-17 20:06:27",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=tomodachi-game&episode=2",
+      "image": "https://abdo12249.github.io/1/images/tomodachi-game.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/MnoygJ6Z!LTxykv5Ab2N0T3So-caTAjxeV5F4uNIhM3MajkElEHU"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3283360615130"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/tjcwgkwfu0em"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-qeq0t0jo7e2n.html"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-08zqgbexxih0.html"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/vNgnxyRXwwaNV"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/cyqUKHuGea/"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-brm8u9jzdpup.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/q4ymrehp2477"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/Fypk0CYZ!BYlPvsN9a8bG4BNAU11Jjw2TNAcmaPipwo2Pd5xSrfk"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3283366709978"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/ue4eq2h129bv"
+        },
+        {
+          "serverName": "Mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-18xpnlvaq439.html"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/ll25cai1az0e"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/A6YUzJzI!shEWHHtETxWZJ6uVPopxgIJwuIQ1HLFQmdrBTwsfKlg"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3283367430874"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/tak9vtmsudix"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-bg9e0lsl9e9w.html"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/ywbal2ywvum3"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "الحلقة 3",
+      "date": "2025-07-17 20:06:28",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=tomodachi-game&episode=3",
+      "image": "https://abdo12249.github.io/1/images/tomodachi-game.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/B0EkkbIB!-_qO_XXXiH418M4pdC29dc-9RlusPKEOvwfhAUWBYHo"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3299578415834"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/w0rwo0c0aero"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-usnxe359y8pf.html"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/eWppqqmaKRdBL"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-ofp0b0pxwnva.html"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-oeeols4xgffq.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/GP_6KGjqiq/"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/err6rzms1g6s"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/40FWzRLA!9nxUMrbSCb_JH0qjXsvFHwx6r5LFcOYSlN1NpwEitfA"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/kfbd56eplkn0"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/vwugzco9pbeb"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/ZxtxRAxb!6ATR-nCp6mTifnieQpR-tCu21bdOsJWu2bJtOaHHeNM"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3299578809050"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/0un78zrmkmfh"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-carg7ep7im7l.html"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/ws84unoa1t7r"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "الحلقة 4",
+      "date": "2025-07-17 20:06:28",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=tomodachi-game&episode=4",
+      "image": "https://abdo12249.github.io/1/images/tomodachi-game.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/uplSQB6K!8upFcGzYG3hLly3jmXnQxNHtC0kJgkI-u0sZo9Ycdk4"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3314118822618"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-27m45es60ryi.html"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/m1mw6ml0vl4e"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-k4k3lqvkbflk.html"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/VKNeqP4QA7jRa"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-locp7j960ufa.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/f3r2m3wwwzia"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/2xN0kDYR!lC1TlGOmdyX7R_zyCTh5YGC-Xvr0yRdw8SdJd25j1z8"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3314137107162"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/evllnxe384mf"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/s82mqy8hbmx1"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/GlE3VASS!MbLiifPlAtH2cfn97gVNdpUWSJVSu9nN5uoZG1TeiPc"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3314144512730"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/z238r3xoots2"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-ppt37nzjrfli.html"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/cj3l2ljrppr8"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "الحلقة 5",
+      "date": "2025-07-17 20:06:27",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=tomodachi-game&episode=5",
+      "image": "https://abdo12249.github.io/1/images/tomodachi-game.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/UvpRVYyC!5xJ4GDgGZnhHMY2gOkCw02n1ZhGpIE-o0xW3SJlHc5g"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3330521041626"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/pumsd9gtwsyc"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-hwhp5ri19c7f.html"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-ucdprmf70bd7.html"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/a4kWeyg8ZQrk6"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-biysdev9zy03.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/L1mpWA1Yiq/"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/orbqvm1q9s3u"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/hqoXRDhJ!qg6b4bOQF3Elg3zQ4oYY9FywpXunwVMNuoNU5YN-xA0"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3330543389402"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/q9r6on5lsqy4"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/28wym1n6hrva"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/oighxKrT!dVGoCiXL0MNN3W5-DtylkE-NrvJEYGyI_BGq9r-spqk"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3330548107994"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/1n6rupikemym"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-9ihgkwiprt4h.html"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/qiofwom54vbx"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "الحلقة 6",
+      "date": "2025-07-17 20:06:28",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=tomodachi-game&episode=6",
+      "image": "https://abdo12249.github.io/1/images/tomodachi-game.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/G6Q3hTLT!7MekOZQxa04c5hpRQu23hfWgAKjWH3EEh8-xFsAb-dg"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3346814012122"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-uzefgtdqqoq5.html"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/25n1lkadrwdb"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-b9cp6xk7rtfh.html"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/YL7KaWAkjKBWd"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-198cz2co1o24.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/bpPj45LKea/"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/ad9o42wvba6t"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/HmhnWDIa!v2eEw3cIq_8QEfOvUnKvZiiSS4KdmJ6OdW7Jn4Wn92w"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3346823842522"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/gi1dlzt8ojol"
+        },
+        {
+          "serverName": "Mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-m8jbj8b1nq8r.html"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/60erakzgwc6i"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/yyRk0AJR!QeVDD3DWecUUBz1aKTLNBR1K8nw7M2xH6LKe5y14V1Q"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3346827578074"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/5w9r7tjcw5o5"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-zrxta2rs3tlk.html"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/20c3bvrpckw5"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "الحلقة 7",
+      "date": "2025-07-17 20:06:28",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=tomodachi-game&episode=7",
+      "image": "https://abdo12249.github.io/1/images/tomodachi-game.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/PCQUQTBD!1uwnlBb2kt7_1_MTQR34jvfn99Fty7q83DZZLTxukkk"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3362363411162"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-s6ipzst0qdmn.html"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/e62vdyuj2y23"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/zepKwYLvZxxma"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-1c6fs1b5cn2t.html"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-35u2784kuw4x.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/lFefBIiTiq/"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/bk1b2ubgnyc4"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/nCR1DSiL!Skx-9nZqxxdSTefd64iza4pKns4Z7efoPT63UYfiELM"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3362384906970"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/ipmumbwxvk9v"
+        },
+        {
+          "serverName": "Mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-ni0ickke0q7r.html"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/a3qiotgh2efe"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/XDBCUQJT!366BjgcQR9O_H0WPocV3MMDEfxjtu_zG1Tx9Fzs1Bx0"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3362385365722"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/yo26dfwbnz9l"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-lf53kal3cbvy.html"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/rmivzic1141k"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "الحلقة 8",
+      "date": "2025-07-17 20:06:27",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=tomodachi-game&episode=8",
+      "image": "https://abdo12249.github.io/1/images/tomodachi-game.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/4e9BGA5I!3LdJPeRK2TT4ssIlYzQRwzzFPfrycUw3w3R1-R4HVm8"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3378222664410"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-v200nif0vpq0.html"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/r2qznfno2xsd"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-us3rc5jk9oqu.html"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/dN5aaqgewyyYD"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-90ed6soaa0mc.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/Ox4APUqWiq/"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/anzi20g8ici2"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/cT8gTQwb!2NjjVi5EsJqEnnNjnxw_fIG8E3QDZBzp7KKvjUUmjkI"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3378249468634"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/5tqit7uq1r36"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/avy6659axiz5"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/1XlxxbQI!YC0x4WlFcNNGJJpsgqYlCM91baVQS3vIugP6nja0zzk"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3378254580442"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/shqig3fomo9i"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-8wbpfu0k5kzu.html"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/ztcbggqkjd29"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "الحلقة 9",
+      "date": "2025-07-17 20:06:27",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=tomodachi-game&episode=9",
+      "image": "https://abdo12249.github.io/1/images/tomodachi-game.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/sPsgFSLJ!tKuU250ERopzl4vprEMEah6WKtc3pN0KKcCusuVYwOc"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3398915001050"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/ia9wqgx69d8p"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-0xb5bsc9sfom.html"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/Vxdw56z8zqWVN"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-4iqup0hv36ae.html"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-svul95kasu2z.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/n3A6mGIiea/"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/5k2ytfvnuc8p"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/gb9l0aYI!FrJnP8r7a6ZR_1IL2gVu2g_PnZM1VBXp0tOp50G3JU8"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3398934792922"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/n925w7u70ixy"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/qawa76z04onu"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/cSE3AY6L!pkPDchoI5IISVw-E1Ie9_m6Lhbvua3gyjl7rx9K8w84"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3398940494554"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/nzdb92h3skjf"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-pqlcuctznoxl.html"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/vlzbb2osd5ug"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "الحلقة 10",
+      "date": "2025-07-17 20:06:27",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=tomodachi-game&episode=10",
+      "image": "https://abdo12249.github.io/1/images/tomodachi-game.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/oDFzxYiB!0KEZwhpYwFBK-CtPxhUTtpY0S0l12XE691maBhGiJZA"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3421896116954"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-9r30fvkiju2q.html"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/79rf894ek030"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/3YGYmYDZ8BBP8"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-g8hk1dbsq1hl.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/FnC-cf3vea/"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-imibfldrz0aa.html"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/0niykl5qrckv"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/setFHRoA!IHQRyBJDmmWvRwZLVHFxNjSBNG9FQ1BQOEZM-JoFTLY"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3421906078426"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/mvzcga8kgoin"
+        },
+        {
+          "serverName": "Mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-7pmhw7dkfq52.html"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/f5dg66acmnk9"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/EK1nAJQT!LGzhENDCpZ3AhMdY62s5gaWIVV53eTHiGWOxVlmC51c"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3421907913434"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/6fzm7c442xpb"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-8s371tmbdcfb.html"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/yw4tc3jgjylh"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "الحلقة 11",
+      "date": "2025-07-17 20:06:27",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=tomodachi-game&episode=11",
+      "image": "https://abdo12249.github.io/1/images/tomodachi-game.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/KzYH0TYS!-ZOpw5-w7I_-FK01vTIb8lalk1wLmHcPOgR8k4sLS64"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3447532423898"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/fc8vhqqtrv8n"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-d4r5x8smqhfk.html"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/jYq8x77v5y55e"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-r8gvo4nefw9v.html"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-swutjtaam3dy.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/-uIhFgZSiq/"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/nnmt5mxx03nw"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/CjA1UDDb!uoAQTH3Mm_GE0cal3dHUdZPVG6J6d7RtGd5Qh5IpMHQ"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3447546055386"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/l0k5qqyvnuit"
+        },
+        {
+          "serverName": "Mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-jttpve80w31x.html"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/bys1lho79jk5"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/C2RDTDyQ!uWAOUbXS99MHUGvGDoNScshKxkFpCtZ38T1X0CHvyzc"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3447548938970"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/oo3ppdtrozg4"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-0k1lmo1wipg5.html"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/f00xtk345krn"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "الحلقة 12",
+      "date": "2025-07-17 20:06:28",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=tomodachi-game&episode=12",
+      "image": "https://abdo12249.github.io/1/images/tomodachi-game.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/ADcx2IRQ!QN9VqfHDvZIrLZxDouS-jYnvg1d0zOz8vBraUEz4SXU"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/3470240451290"
+        },
+        {
+          "serverName": "DoodStream",
+          "url": "https://do7go.com/e/syldrfmo0cc3"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-co8xftfykyx9.html"
+        },
+        {
+          "serverName": "vidbam",
+          "url": "https://vadbam.com/embed-7zeghpo2gvuy.html"
+        },
+        {
+          "serverName": "solidfiles",
+          "url": "https://www.solidfiles.com/e/eZnBW527D7jjV"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-6kr5rg9d6dkn.html"
+        },
+        {
+          "serverName": "4shared",
+          "url": "https://www.4shared.com/web/embed/file/ESCGGOGmiq/"
+        },
+        {
+          "serverName": "uptostream",
+          "url": "https://uptostream.com/iframe/83335t8j3yd1"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/cLU1nJgY!6ohGZVDsSM2iiuhGkWmBtqo22bmkqiUqTfUX9CpuWcc"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/3470254803674"
+        },
+        {
+          "serverName": "DoodStream - FHD",
+          "url": "https://do7go.com/e/40ni2sctsuqc"
+        },
+        {
+          "serverName": "uptostream - FHD",
+          "url": "https://uptostream.com/iframe/mqu68gpgfyfs"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/wCUwlKhS!oLpGxTl1ykGM2MQMdZMZsR7BOSZn5Ex4sBWCvlk9Bws"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3470270139098"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/q5e21qmjbikt"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-4asly2m0nmdr.html"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/srjmlh1znn42"
+        }
+      ]
+    }
+  ]
+}

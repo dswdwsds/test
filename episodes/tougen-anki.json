@@ -1,0 +1,54 @@
+{
+  "animeTitle": "Tougen Anki الحلقة 1",
+  "episodes": [
+    {
+      "number": 1,
+      "title": "الحلقة 1",
+      "date": "2025-07-17 17:26:12",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=tougen-anki&episode=1",
+      "image": "https://abdo12249.github.io/1/images/tougen-anki.webp",
+      "servers": [
+        {
+          "serverName": "megamax",
+          "url": "https://megamax.me/iframe/Aqkv6dIfltYY4"
+        },
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/TkhniYhJ!ZHsDuMk96Q7i7D4oETlE6ih4-S3PKOMvJZyZ9zBbKKw"
+        },
+        {
+          "serverName": "voe.sx",
+          "url": "https://voe.sx/e/tyvc4f6isn3f"
+        },
+        {
+          "serverName": "vidmoly",
+          "url": "https://vidmoly.to/embed-s0i99ise14xy.html"
+        },
+        {
+          "serverName": "videa",
+          "url": "https://videa.hu/player?v=4FuXNcKw2ntVKdy5"
+        },
+        {
+          "serverName": "vk",
+          "url": "https://vkvideo.ru/video_ext.php?oid=-230564661&id=456239388&hd=2&hash=23a5155c4f56a0ff&autoplay=1"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-mdjwwmug2a44.html"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/78hAGTBC!Udsyz_Eec0p8FhNo5oo3lHSDmaWmXfe_yvooMCffwIQ"
+        },
+        {
+          "serverName": "Mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-f88x6isp1d5v.html"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-i0fcewmtabog.html"
+        }
+      ]
+    }
+  ]
+}

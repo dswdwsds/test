@@ -1,0 +1,62 @@
+{
+  "animeTitle": "فيلم Look Back",
+  "episodes": [
+    {
+      "number": null,
+      "title": "فيلم Look Back",
+      "date": "2025-07-17 17:34:45",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=look-back&episode=None",
+      "image": "https://abdo12249.github.io/1/images/look-back.webp",
+      "servers": [
+        {
+          "serverName": "megamax",
+          "url": "https://megamax.me/iframe/kh1X8TGe9IAHN"
+        },
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/zUsm3RTC!cKUr0zyyAz1VezyRTrByM2NdErWgj3d7XPFimg5WfrU"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/7754243377882"
+        },
+        {
+          "serverName": "vidmoly",
+          "url": "https://vidmoly.to/embed-vh96dia271a4.html"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-e5mry18vsixd.html"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-0pjt0e7tx8ok.html"
+        },
+        {
+          "serverName": "Sendvid",
+          "url": "https://sendvid.com/embed/l5n0zrf9"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/XYdkhYAT!MlppsxiFRKVjUwcm5zJl5oIKkC3t8sh5lCjyoz6y5S8"
+        },
+        {
+          "serverName": "ok.ru - FHD",
+          "url": "https://www.ok.ru/videoembed/7754161785562"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/vM0URSiY!mYLjaebW9SCx_kvt6c8B2KyAsJeOTVQRnG5R01TY72k"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/7754305440474"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-bb3od5zdulhr.html"
+        }
+      ]
+    }
+  ]
+}

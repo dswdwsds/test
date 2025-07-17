@@ -102,7 +102,7 @@ def scrape_single_anime(base_url):
     safe_title = re.sub(r'[\\/:*?"<>|]', "", cleaned_title)  # إزالة الرموز المحظورة في أسماء الملفات
     safe_title = safe_title.replace(" ", "-").lower()        # استبدال المسافات بشرطات وتحويل إلى حروف صغيرة
     safe_title = re.sub(r'[–—]', '-', safe_title)            # استبدال الشرطة الطويلة بشرطة عادية
-    safe_title = re.sub(r'-?(الحلقة|فيلم|اوفا)-?\d*', '', safe_title)  # إزالة "الحلقة-1" أو "فيلم-1" أو "اوفا-3"
+    safe_title = re.sub(r'-?(الحلقة|فيلم|اوفا|اونا|فليم)-?\d*', '', safe_title)  # إزالة "الحلقة-1" أو "فيلم-1" أو "اوفا-3"
     safe_title = re.sub(r'-+', '-', safe_title).strip('-')   # تنظيف الشرطات المكررة وإزالة من البداية/النهاية
 
 
@@ -185,7 +185,7 @@ def scrape_from_json_file(json_path):
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("❗ الرجاء تمرير مسار ملف JSON يحتوي على روابط الأنميات.")
-        print("مثال:\npython script.py animes.json")
+        print("مثال:\npython episodes.py first_episodes_only.json")
         sys.exit(1)
 
     json_file_path = sys.argv[1]

@@ -1,0 +1,54 @@
+{
+  "animeTitle": "فيلم Blue Giant",
+  "episodes": [
+    {
+      "number": null,
+      "title": "فيلم Blue Giant",
+      "date": "2025-07-17 17:53:28",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=blue-giant&episode=None",
+      "image": "https://abdo12249.github.io/1/images/blue-giant.webp",
+      "servers": [
+        {
+          "serverName": "megamax",
+          "url": "https://megamax.me/iframe/fxEUzvBUZ9VNs"
+        },
+        {
+          "serverName": "megamax",
+          "url": "https://megamax.me/iframe/fxEUzvBUZ9VNs"
+        },
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/ed1GDCZb!vHZ34W-ceGsL-dVexZrMyBQfpVPH838rEKBk9iwtaTI"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-54l6v44wddl0.html"
+        },
+        {
+          "serverName": "Google drive",
+          "url": "https://drive.google.com/file/d/1wOZIWZu6adVQY47U-i0lrXN9r0sduQSA/preview"
+        },
+        {
+          "serverName": "vedbam1",
+          "url": "https://vedbam1.store/embed-cp9ynvrt29q0.html"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/WR1UzLCI!4XhIL69xHnIwysakCyoLvvHC7WlXFVun_MWCJqj6x1k"
+        },
+        {
+          "serverName": "Google drive - FHD",
+          "url": "https://drive.google.com/file/d/1ZQk7MuYzDJaXyBN5CIt-UJZ4xorAPmsL/preview"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/rQMVlLYB!vMK7lRnfrABS8fcsROJVGgYil8zhkqEyJr-73MV8o_w"
+        },
+        {
+          "serverName": "Google drive - SD",
+          "url": "https://drive.google.com/file/d/1jnjiDQZG4gCqnvOPX-VFNHjsJmPNLZUT/preview"
+        }
+      ]
+    }
+  ]
+}

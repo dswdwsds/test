@@ -1,0 +1,54 @@
+{
+  "animeTitle": "فيلم Fureru",
+  "episodes": [
+    {
+      "number": null,
+      "title": "فيلم Fureru",
+      "date": "2025-07-17 17:27:05",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=fureru&episode=None",
+      "image": "https://abdo12249.github.io/1/images/fureru.webp",
+      "servers": [
+        {
+          "serverName": "megamax",
+          "url": "https://megamax.me/iframe/bOizcrIMI2aBm"
+        },
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/OVVTAJjJ!yxPsyu996A_g8XU0iCJN5MVZZC7QJkbM96mgAhyWBRc"
+        },
+        {
+          "serverName": "vk",
+          "url": "https://vkvideo.ru/video_ext.php?oid=-230564661&id=456239214&hash=811166486bbf1fa5&autoplay=1"
+        },
+        {
+          "serverName": "vidmoly",
+          "url": "https://vidmoly.to/embed-ipujr19rcf58.html"
+        },
+        {
+          "serverName": "voe.sx",
+          "url": "https://voe.sx/e/ehvl0chc4sff"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-ojesmef8ieph.html"
+        },
+        {
+          "serverName": "Sendvid",
+          "url": "https://sendvid.com/embed/mc8e42nh"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/rA9ShTRY!1NQ4A3bUDc97b5zPnpM7TPnFwjd8_iU53rznaABq9pY"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/zdlBUDYa!ANuOGr-g0KDtJSCeAqhMTJkz9sdc1yPgm6xmUtsQZRQ"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-8kmrd9e0fdra.html"
+        }
+      ]
+    }
+  ]
+}

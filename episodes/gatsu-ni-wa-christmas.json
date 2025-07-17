@@ -1,0 +1,42 @@
+{
+  "animeTitle": "اوفا 1-gatsu ni wa Christmas",
+  "episodes": [
+    {
+      "number": 1,
+      "title": "اوفا 1-gatsu ni wa Christmas",
+      "date": "2025-07-17 18:02:59",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=gatsu-ni-wa-christmas&episode=1",
+      "image": "https://abdo12249.github.io/1/images/gatsu-ni-wa-christmas.webp",
+      "servers": [
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/MXE3mRbA!uWr7cy7vLQdpLoJI0H71RSQycId6jRfGW5ut3__Lzeg"
+        },
+        {
+          "serverName": "ok.ru - SD",
+          "url": "https://www.ok.ru/videoembed/3894734949082"
+        },
+        {
+          "serverName": "DoodStream - SD",
+          "url": "https://do7go.com/e/dzbw65aqkhiq"
+        },
+        {
+          "serverName": "uqload - SD",
+          "url": "https://uqload.net/embed-swkfskq18j94.html"
+        },
+        {
+          "serverName": "4shared - SD",
+          "url": "https://www.4shared.com/web/embed/file/PuW_nd7Yge/"
+        },
+        {
+          "serverName": "vadbam - SD",
+          "url": "https://vadbam.com/embed-z2mwzxophuqt.html"
+        },
+        {
+          "serverName": "uptostream - SD",
+          "url": "https://uptostream.com/iframe/ogcemje3n8me"
+        }
+      ]
+    }
+  ]
+}

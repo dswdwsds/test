@@ -1,0 +1,38 @@
+{
+  "animeTitle": "اوفا One Punch Man: Road to Hero",
+  "episodes": [
+    {
+      "number": null,
+      "title": "اوفا One Punch Man: Road to Hero",
+      "date": "2025-07-17 17:42:39",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=one-punch-man-road-to-hero&episode=None",
+      "image": "https://abdo12249.github.io/1/images/one-punch-man-road-to-hero.webp",
+      "servers": [
+        {
+          "serverName": "megamax",
+          "url": "https://megamax.me/iframe/lSPwz2bbbviGg"
+        },
+        {
+          "serverName": "ok.ru",
+          "url": "https://www.ok.ru/videoembed/7181677103834"
+        },
+        {
+          "serverName": "vidmoly",
+          "url": "https://vidmoly.to/embed-mfmvk9xsogyh.html"
+        },
+        {
+          "serverName": "uqload",
+          "url": "https://uqload.net/embed-yn5vk1ldwi0o.html"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-1lhw82zu23hw.html"
+        },
+        {
+          "serverName": "Sendvid",
+          "url": "https://sendvid.com/embed/3niiybve"
+        }
+      ]
+    }
+  ]
+}

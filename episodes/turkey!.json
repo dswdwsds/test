@@ -1,0 +1,103 @@
+{
+  "animeTitle": "Turkey! الحلقة 1",
+  "episodes": [
+    {
+      "number": 1,
+      "title": "الحلقة 1",
+      "date": "2025-07-17 17:25:51",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=turkey!&episode=1",
+      "image": "https://abdo12249.github.io/1/images/turkey!.webp",
+      "servers": [
+        {
+          "serverName": "megamax",
+          "url": "https://megamax.me/iframe/6fWuIBCF55Vsv"
+        },
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/PUFCBCKL!bxhri7VN3MAOyspFMgWsKItkIh990ij7lsoJkF4XS_0"
+        },
+        {
+          "serverName": "vidmoly",
+          "url": "https://vidmoly.to/embed-1t15pdbwl9u2.html"
+        },
+        {
+          "serverName": "voe.sx",
+          "url": "https://voe.sx/e/wiknbhkwpxyw"
+        },
+        {
+          "serverName": "videa",
+          "url": "https://videa.hu/player?v=2cbwc4LQ6v9cXIul"
+        },
+        {
+          "serverName": "vk",
+          "url": "https://vkvideo.ru/video_ext.php?oid=-230564661&id=456239359&hd=2&hash=ae5ce462babff0d8&autoplay=1"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-t2bg25rkerp9.html"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/WUchnKKS!ITwScGTCjnj2GZw3tpsO-cZy-TX3JLWvy_v6Hn7YRNo"
+        },
+        {
+          "serverName": "Mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-hx3o32pobscl.html"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/GIt22BjA!TQhlYC1qWCeUOwFOrBnmOZKrjCeNycfWLTVkbjqAiz0"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-6aybtpjgb55x.html"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "الحلقة 2",
+      "date": "2025-07-17 17:25:51",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=turkey!&episode=2",
+      "image": "https://abdo12249.github.io/1/images/turkey!.webp",
+      "servers": [
+        {
+          "serverName": "megamax",
+          "url": "https://megamax.me/iframe/QqV7f6PLzwbyI"
+        },
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/GQdGWAKI!JEVDRvSFBKe1WqC0XlfBda0I2NunLlj-FU3GiZ5_NNI"
+        },
+        {
+          "serverName": "voe.sx",
+          "url": "https://voe.sx/e/rrbeexyw1xyg"
+        },
+        {
+          "serverName": "vidmoly",
+          "url": "https://vidmoly.to/embed-hoa47j4geqyd.html"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-17aqu2suebg1.html"
+        },
+        {
+          "serverName": "mega بدون اعلانات - FHD",
+          "url": "https://mega.nz/embed/rUkFGI7B!4fDB2324-_YuIG3JeIQRNSqfGOsokmgruZ_AstIldPI"
+        },
+        {
+          "serverName": "Mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-819qgjt89q1w.html"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/WJ8ElAYS!aeRTwVyC_GsSfNtcuuJnK9u16YU-fR_vuPy36K3g6oY"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-6dcel6nv9e2w.html"
+        }
+      ]
+    }
+  ]
+}

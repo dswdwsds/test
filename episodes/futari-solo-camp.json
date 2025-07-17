@@ -1,0 +1,91 @@
+{
+  "animeTitle": "Futari Solo Camp الحلقة 1",
+  "episodes": [
+    {
+      "number": 1,
+      "title": "الحلقة 1",
+      "date": "2025-07-17 17:25:29",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=futari-solo-camp&episode=1",
+      "image": "https://abdo12249.github.io/1/images/futari-solo-camp.webp",
+      "servers": [
+        {
+          "serverName": "megamax",
+          "url": "https://megamax.me/iframe/8P3YMsCNAOyQk"
+        },
+        {
+          "serverName": "mega بدون اعلانات",
+          "url": "https://mega.nz/embed/zZlTGI4R!BcFi5rDLmW77UfL85XHbbYbz9kbfcmA3iIhq-lwVYY4"
+        },
+        {
+          "serverName": "voe.sx",
+          "url": "https://voe.sx/e/ecxowo4zv2kc"
+        },
+        {
+          "serverName": "vidmoly",
+          "url": "https://vidmoly.to/embed-8gic0cyguqq8.html"
+        },
+        {
+          "serverName": "videa",
+          "url": "https://videa.hu/player?v=4Sj31J61d89qTo1p"
+        },
+        {
+          "serverName": "vk",
+          "url": "https://vkvideo.ru/video_ext.php?oid=-230564661&id=456239381&hash=6545250f6e550565&autoplay=1"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-615qd7ib79t5.html"
+        },
+        {
+          "serverName": "Mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-0fc32oc1duf3.html"
+        },
+        {
+          "serverName": "mega بدون اعلانات - SD",
+          "url": "https://mega.nz/embed/GM8mTQxR!vFfDineol24nmvpwINy3zFukokibv91_r4TE5LA3SHk"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-inhlbyoug61b.html"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "الحلقة 2",
+      "date": "2025-07-17 18:48:00",
+      "link": "https://abdo12249.github.io/1/test1/المشاهده.html?id=futari-solo-camp&episode=2",
+      "image": "https://abdo12249.github.io/1/images/futari-solo-camp.webp",
+      "servers": [
+        {
+          "serverName": "megamax",
+          "url": "https://megamax.me/iframe/DeZry6FkCIwHT"
+        },
+        {
+          "serverName": "voe.sx",
+          "url": "https://voe.sx/e/d4oyi2xi3r3y"
+        },
+        {
+          "serverName": "vidmoly",
+          "url": "https://vidmoly.to/embed-46tj7g63m8hj.html"
+        },
+        {
+          "serverName": "videa",
+          "url": "https://videa.hu/player?v=A7UtNjRfMwYXw2eJ"
+        },
+        {
+          "serverName": "Mp4upload",
+          "url": "https://www.mp4upload.com/embed-fmnvuggzf0tj.html"
+        },
+        {
+          "serverName": "Mp4upload - FHD",
+          "url": "https://www.mp4upload.com/embed-uh33d0w23x2e.html"
+        },
+        {
+          "serverName": "Mp4upload - SD",
+          "url": "https://www.mp4upload.com/embed-ogx41ge7rif4.html"
+        }
+      ]
+    }
+  ]
+}
