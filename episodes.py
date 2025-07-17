@@ -1,107 +1,192 @@
+import cloudscraper
+from lxml import html
+import re
 import os
-import base64
-import requests
 import json
+from datetime import datetime
+import time
+import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# إعدادات GitHub
-access_token = os.getenv("ACCESS_TOKEN")
-repo_name = "abdo12249/1"
-remote_folder = "test1/episodes"
-local_folder = "episodes"
-update_json_path = "1/الجديد.json"
-update_json_url = "https://abdo12249.github.io/1/test1/episodes"
+def extract_episode_data(ep_link, scraper, safe_title, anime_title, existing_titles):
+    try:
+        print(f"🔗 معالجة الحلقة: {ep_link}")
+        ep_resp = scraper.get(ep_link)
+        ep_resp.raise_for_status()
+        ep_tree = html.fromstring(ep_resp.content)
 
-# رؤوس الطلبات
-headers = {
-    "Authorization": f"token {access_token}",
-    "Accept": "application/vnd.github.v3+json"
-}
+        # العنوان الكامل من الصفحة
+        title_elements = ep_tree.xpath('/html/body/div[3]/div/h3/text()')
+        full_title = title_elements[0].strip() if title_elements else "حلقة غير معروفة"
 
-def get_file_sha(repo, path):
-    url = f"https://api.github.com/repos/{repo}/contents/{path}"
-    response = requests.get(url, headers=headers)
-    if response.status_code == 200:
-        return response.json()["sha"]
-    return None
+        # استخراج نوع الحلقة ورقمها
+        match = re.search(r"(الحلقة(?:\s+الخاصة)?|الفيلم|فيلم)\s*(\d+)", full_title, re.IGNORECASE)
+        if match:
+            ep_type = match.group(1).strip()
+            episode_number = int(match.group(2))
+            episode_title = f"{ep_type} {episode_number}"
+        else:
+            episode_number = None
+            episode_title = full_title
 
-def upload_file(repo, local_path, remote_path):
-    with open(local_path, "rb") as file:
-        content = base64.b64encode(file.read()).decode("utf-8")
+        if episode_title in existing_titles:
+            print(f"✅ الحلقة '{episode_title}' موجودة مسبقًا، تخطي.")
+            return None
 
-    sha = get_file_sha(repo, remote_path)
-    url = f"https://api.github.com/repos/{repo}/contents/{remote_path}"
-    data = {
-        "message": f"Upload {os.path.basename(local_path)}",
-        "content": content,
-        "branch": "main"
-    }
-    if sha:
-        data["sha"] = sha
+        # السيرفرات
+        servers = []
+        server_lis = ep_tree.xpath('//*[@id="episode-servers"]/li')
+        for li in server_lis:
+            try:
+                server_name = li.xpath('.//a/text()')[0].strip()
+                url = li.xpath('.//a/@data-ep-url')
+                url = url[0] if url else li.xpath('.//a/@href')[0]
+                if url.startswith("//"):
+                    url = "https:" + url
+                servers.append({
+                    "serverName": server_name,
+                    "url": url
+                })
+            except Exception:
+                continue
+        episode_number = int(re.search(r'\d+', episode_title).group()) if re.search(r'\d+', episode_title) else None
 
-    response = requests.put(url, headers=headers, json=data)
-    return response.status_code in [200, 201]
+        # تجهيز البيانات
+        ep_data = {
+            "number": episode_number,
+            "title": episode_title,
+            "date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "link": f"https://abdo12249.github.io/1/test1/المشاهده.html?id={safe_title}&episode={episode_number}",
+            "image": f"https://abdo12249.github.io/1/images/{safe_title}.webp",
+            "servers": servers
+        }
 
-def load_current_update_json():
-    url = f"https://raw.githubusercontent.com/{repo_name}/main/{update_json_path}"
-    response = requests.get(url)
-    if response.status_code == 200:
-        try:
-            return json.loads(response.text).get("animes", [])
-        except:
-            print("⚠️ فشل قراءة الجديد.json (تنسيق غير صحيح)")
-            return []
-    return []
 
-def save_updated_json_file(anime_urls):
-    unique_urls = list(sorted(set(anime_urls)))
-    payload = {
-        "animes": unique_urls
-    }
-    content = json.dumps(payload, ensure_ascii=False, indent=2)
-    b64_content = base64.b64encode(content.encode("utf-8")).decode("utf-8")
+        print(f"➕ تم استخراج: {episode_title}")
+        return ep_data
 
-    sha = get_file_sha(repo_name, update_json_path)
-    url = f"https://api.github.com/repos/{repo_name}/contents/{update_json_path}"
-    data = {
-        "message": "تحديث ملف الجديد.json",
-        "content": b64_content,
-        "branch": "main"
-    }
-    if sha:
-        data["sha"] = sha
+    except Exception as e:
+        print(f"❌ فشل استخراج الحلقة من {ep_link} بسبب: {e}")
+        return None
 
-    response = requests.put(url, headers=headers, json=data)
-    if response.status_code in [200, 201]:
-        print("📄 تم تعديل الجديد.json ✅")
-    else:
-        print(f"❌ فشل تحديث الجديد.json: {response.text}")
 
-def upload_all_json_files():
-    if not os.path.exists(local_folder):
-        print("❌ المجلد المحلي episodes غير موجود.")
+def extract_base_title(raw_title):
+    # إزالة " - الحلقة 1" أو " - فيلم" من نهاية العنوان
+    return re.sub(r'\s*[-–]\s*(الحلقة|الفيلم|فيلم)\s*\d*$', '', raw_title.strip(), flags=re.IGNORECASE)
+
+
+def scrape_single_anime(base_url):
+    print(f"\n🔄 جاري استخراج أنمي من الرابط: {base_url}")
+    scraper = cloudscraper.create_scraper()
+
+    try:
+        response = scraper.get(base_url)
+        response.raise_for_status()
+    except Exception as e:
+        print(f"❌ خطأ في جلب الصفحة الرئيسية: {e}")
         return
 
-    anime_urls = load_current_update_json()
-    uploaded_count = 0
+    tree = html.fromstring(response.content)
+    episode_links = tree.xpath('//*[@id="ULEpisodesList"]/li/a/@href')
+    if not episode_links:
+        print("⚠️ لم يتم العثور على روابط الحلقات.")
+        return
 
-    for filename in os.listdir(local_folder):
-        if filename.endswith(".json"):
-            local_path = os.path.join(local_folder, filename)
-            remote_path = f"{remote_folder}/{filename}"
-            file_url = f"{update_json_url}/{filename}"
+    # استخراج عنوان الأنمي
+    title_elements = tree.xpath('/html/body/div[3]/div/h3/text()')
+    raw_title = title_elements[0].strip() if title_elements else "عنوان غير معروف"
+    anime_title = extract_base_title(raw_title)
 
-            if file_url in anime_urls:
-                print(f"🔁 موجود مسبقًا: {filename}")
-                continue
+    # إنشاء اسم ملف آمن
+    cleaned_title = re.sub(r"مدبلجة\s*للعربية", "", anime_title, flags=re.IGNORECASE).strip()
+    safe_title = re.sub(r'[\\/:*?"<>|]', "", cleaned_title)  # إزالة الرموز المحظورة في أسماء الملفات
+    safe_title = safe_title.replace(" ", "-").lower()        # استبدال المسافات بشرطات وتحويل إلى حروف صغيرة
+    safe_title = re.sub(r'[–—]', '-', safe_title)            # استبدال الشرطة الطويلة بشرطة عادية
+    safe_title = re.sub(r'-?(الحلقة|فيلم|اوفا)-?\d*', '', safe_title)  # إزالة "الحلقة-1" أو "فيلم-1" أو "اوفا-3"
+    safe_title = re.sub(r'-+', '-', safe_title).strip('-')   # تنظيف الشرطات المكررة وإزالة من البداية/النهاية
 
-            uploaded = upload_file(repo_name, local_path, remote_path)
-            if uploaded:
-                uploaded_count += 1
-                print(f"[{uploaded_count}] ✅ تم رفع: {remote_path}")
-                anime_urls.append(file_url)
-                save_updated_json_file(anime_urls)
-            else:
-                print(f"❌ فشل رفع: {remote_path}")
 
-# تشغيل
-upload_all_json_files()
+
+    # حفظ باسم ثابت
+    filename = f"{safe_title}.json"
+    os.makedirs("episodes", exist_ok=True)
+    full_path = os.path.join("episodes", filename)
+
+    all_episodes = []
+    existing_titles = set()
+
+    if os.path.exists(full_path) and os.path.getsize(full_path) > 0:
+        try:
+            with open(full_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                if isinstance(data, dict) and "episodes" in data:
+                    all_episodes = data["episodes"]
+                    existing_titles = {ep["title"] for ep in all_episodes}
+        except Exception:
+            pass
+
+    with ThreadPoolExecutor(max_workers=30) as executor:
+        future_to_link = {
+            executor.submit(
+                extract_episode_data,
+                link,
+                scraper,
+                safe_title,
+                anime_title,
+                existing_titles
+            ): link
+            for link in episode_links
+        }
+
+        for future in as_completed(future_to_link):
+            episode = future.result()
+            if episode:
+                all_episodes.append(episode)
+
+    # ترتيب حسب الرقم إذا موجود
+    def ep_sort(ep):
+        return ep["number"] if isinstance(ep.get("number"), int) else 9999
+
+    all_episodes.sort(key=ep_sort)
+
+    result = {
+        "animeTitle": anime_title,
+        "episodes": all_episodes
+    }
+
+    with open(full_path, "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=2)
+
+    print(f"✅ تم حفظ كل الحلقات في: {filename}")
+
+
+def scrape_from_json_file(json_path):
+    if not os.path.exists(json_path):
+        print(f"❌ الملف غير موجود: {json_path}")
+        return
+
+    with open(json_path, "r", encoding="utf-8") as f:
+        try:
+            anime_links = json.load(f)
+        except Exception as e:
+            print(f"❌ خطأ في قراءة ملف JSON: {e}")
+            return
+
+    if not isinstance(anime_links, list):
+        print("❌ ملف JSON يجب أن يحتوي على قائمة من روابط الأنميات.")
+        return
+
+    print(f"🔄 بدء استخراج الحلقات من {len(anime_links)} أنمي...")
+    for i, link in enumerate(anime_links, start=1):
+        print(f"\n🌟 أنمي رقم {i}: {link}")
+        scrape_single_anime(link)
+
+
+if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        print("❗ الرجاء تمرير مسار ملف JSON يحتوي على روابط الأنميات.")
+        print("مثال:\npython script.py animes.json")
+        sys.exit(1)
+
+    json_file_path = sys.argv[1]
+    scrape_from_json_file(json_file_path)

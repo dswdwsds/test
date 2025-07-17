@@ -96,7 +96,7 @@ if __name__ == "__main__":
     print(f"🔄 سيتم تخطي {len(already_done_links)} حلقة محفوظة مسبقًا.\n")
 
     # ✅ تنفيذ المهام على دفعات 10 باستخدام ThreadPoolExecutor
-    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=50) as executor:
         futures = [executor.submit(extract_first_episode, url, already_done_links) for url in anime_links]
 
         for future in concurrent.futures.as_completed(futures):
